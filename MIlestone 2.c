@@ -48,8 +48,15 @@ task raiseArm(){}
  */
 task lowerArm(){}
 
+task running(){
+	while(){
+		readButton();
+		
+	}
+}
+
 task main()
 {
-
+	
 
 }
