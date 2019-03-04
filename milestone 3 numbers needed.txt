@@ -1,0 +1,9 @@
+ir1 analog 1 
+ir2 analog 2
+led1 digital 6
+led2 digital 9
+
+led: output
+ir: inputs
+
+if arm is down, the sensors might think the arm is a wall. So disable wall detection when arm is down.
