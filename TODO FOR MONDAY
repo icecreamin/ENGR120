@@ -1,0 +1,3 @@
+raise arm after connection is done.
+
+the robot keeps missing the beacon. possibly add back in contant check if it can see the beacon.
